@@ -1,3 +1,1 @@
-print("cncn")
-print("csbncu"
-print("xcv")
+print("hello world")
